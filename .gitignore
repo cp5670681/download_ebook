@@ -3,3 +3,7 @@
 /__pycache__/
 config.txt
 *.log
+/ebook_temp/
+*.exe
+*.spec
+*.pdf
